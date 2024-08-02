@@ -1,6 +1,6 @@
 <h3 align='center'>Nobilissimum</h3>
 
-<p align='center'>Heavenly intellect born to dispense qualms to undeserving stench</p>
+<p align='center'>Corporate all-star by day, genius hobbyist by night.</p>
 
 <br />
 
