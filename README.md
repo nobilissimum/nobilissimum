@@ -7,6 +7,7 @@
 <p align='center'>
   <a href='https://www.linkedin.com/in/ronnangelolee' target='_blank'><img alt='LinkedIn', src='https://img.shields.io/badge/linkedin-126BC4?style=for-the-badge&logo=linkedin&logoColor=white'></a>
   <a href='https://twitter.com/nobilissimum_io' target='_blank'><img alt='X', src='https://img.shields.io/badge/twitter-000000?style=for-the-badge&logo=X&logoColor=white'></a>
+  <a href='https://stackoverflow.com/users/13258940/tenshiro'><img alt='Stack Overflow' src="https://img.shields.io/badge/stack_overflow-F58025?style=for-the-badge&logo=stackoverflow&logoColor=white"></a>
 </p>
 
 <p align='center'>
