@@ -93,4 +93,4 @@
 
 As a passionate software engineer, I love creating tools and dynamic web applications. I focus on building effective and efficient solutions. I'm detail-oriented and thrive in multi-disciplinary environments, excelling both independently and as part of a team.
 
-In addition to coding during my free time, I love playing computer games. I'm open to any genre - whether it's a battle arena, shooter, or simulator - as long as I'm gaming with friends.
+In addition to coding during my free time, I love playing computer games. I'm open to any genre - whether it's a battle arena, shooter, or simulator - as long as I am with my friends.
