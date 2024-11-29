@@ -7,6 +7,7 @@
 <p align='center'>
   <a href='https://www.linkedin.com/in/ronnangelolee' target='_blank'><img alt='LinkedIn', src='https://img.shields.io/badge/linkedin-126BC4?style=for-the-badge&logo=linkedin&logoColor=white'></a>
   <a href='https://twitter.com/nobilissimum_io' target='_blank'><img alt='X', src='https://img.shields.io/badge/twitter-000000?style=for-the-badge&logo=X&logoColor=white'></a>
+  <a href='https://bsky.app/profile/nobilissimum.bsky.social' target='_blank'><img alt='Bluesky', src='https://img.shields.io/badge/bluesky-0285FF?style=for-the-badge&logo=bluesky&logoColor=white'></a>
   <a href='https://stackoverflow.com/users/13258940/nobilissimum'><img alt='Stack Overflow' src="https://img.shields.io/badge/stack_overflow-F58025?style=for-the-badge&logo=stackoverflow&logoColor=white"></a>
   <a href='https://app.daily.dev/nobilissimum'><img alt='daily.dev' src="https://img.shields.io/badge/daily.dev-CE3DF3?style=for-the-badge&logo=daily.dev&logoColor=white"></a>
 </p>
